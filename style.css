@@ -17,9 +17,7 @@ height: auto;
 #twitter{
   background-color: #5cb8ff29;
   float: right;
-  border-color: #5cb8ff29;
-  border: 2px;
-  margin-right: 5px;
+  margin-right: 20px;
 }
 
 .timeline-Widget{
