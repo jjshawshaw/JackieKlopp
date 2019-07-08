@@ -16,7 +16,7 @@ height: auto;
 
 #twitter{
   background-color: #5cb8ff29;
-  align-content: right;
+  float: right;
   border: 3px;
 }
 
