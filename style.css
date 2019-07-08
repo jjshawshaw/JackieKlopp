@@ -23,3 +23,7 @@ height: auto;
 .timeline-Widget{
   background-color: #5cb8ff29;
 }
+
+html, body{
+  min-height:100%;
+}
