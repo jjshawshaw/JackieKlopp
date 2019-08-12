@@ -42,3 +42,8 @@ html{
 body{
   min-height: 100%;
 }
+
+p{
+  font-family: amatic-sc, sans-serif;
+
+}
